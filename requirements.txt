@@ -5,7 +5,7 @@ idna==2.6
 Naked==0.1.31
 pycrypto==2.6.1
 pymongo==3.5.1
-PyYAML==3.12
 requests==2.20.0
+PyYAML==5.1
 shellescape==3.4.1
 urllib3==1.22

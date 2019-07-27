@@ -11,6 +11,7 @@ Acesse [esta apresentação](./extracao-dados-twitter.pdf) para saber mais sobre
 
 ## Requerimentos
  Python >= 3.6
+ 
  MongoDB >= 2.6.10
 
 ## Como Rodar
@@ -18,6 +19,7 @@ Instale os pacotes necessários por meio do arquivo requirements.txt através do
 ```console
 pip3 install -r requirements.txt
 ```
+
 Após isto, levante o banco com o seguinte comando:
 ```console
 mongorestore --drop -d trabalho <Diretório onde está a pasta dump>

@@ -3,6 +3,7 @@
 Esta aplicação fora desenvolvida para a disciplina de Organização de Arquivos, da Universidade de Caxias do Sul.
 
 Autor: [Adriano Gomes da Silva](https://github.com/11808s8) (adrianogsss@gmail.com)
+
 Colaboradores: Marçal Nunes de Oliveira e [Venicius Bregalda](https://github.com/venicius12).
 
 Acesse [esta apresentação](./extracao-dados-twitter) para saber mais sobre o projeto.

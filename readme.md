@@ -6,7 +6,7 @@ Autor: [Adriano Gomes da Silva](https://github.com/11808s8) (adrianogsss@gmail.c
 
 Colaboradores: Marçal Nunes de Oliveira e [Venicius Bregalda](https://github.com/venicius12).
 
-Acesse [esta apresentação](./extracao-dados-twitter) para saber mais sobre o projeto.
+Acesse [esta apresentação](./extracao-dados-twitter.pdf) para saber mais sobre o projeto.
 
 
 ## Requerimentos
